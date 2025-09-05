@@ -2,3 +2,4 @@ fastapi
 aiofiles
 google-genai
 uvicorn
+python-multipart

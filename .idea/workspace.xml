@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90538837-098f-4bd7-bd16-b67673c21e54" name="Changes" comment="fixed tiny tiny issues">
+    <list default="true" id="90538837-098f-4bd7-bd16-b67673c21e54" name="Changes" comment="fixed tiny tiny tiny issues">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +169,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757085214986</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixed tiny tiny tiny issues">
+      <option name="closed" value="true" />
+      <created>1757085509306</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757085509306</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed tiny tiny tiny issues">
+      <option name="closed" value="true" />
+      <created>1757085665174</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757085665174</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed tiny tiny tiny issues">
+      <option name="closed" value="true" />
+      <created>1757085943059</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757085943059</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +212,7 @@
     <MESSAGE value="requiremnts.txt added" />
     <MESSAGE value="fixed tiny issues" />
     <MESSAGE value="fixed tiny tiny issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed tiny tiny issues" />
+    <MESSAGE value="fixed tiny tiny tiny issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed tiny tiny tiny issues" />
   </component>
 </project>
