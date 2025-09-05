@@ -103,6 +103,3 @@ async def upload_audio(audio_file: UploadFile = File(...)):
             detail=f"Server Error:{e}"
         )
 
-
-if __name__ == "__main__":
-    uvicorn.run(app)
