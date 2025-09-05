@@ -72,13 +72,13 @@ async def upload_audio(audio_file: UploadFile = File(...)):
     if audio_file.content_type not in ALLOWED_AUDIO_TYPES:
         raise HTTPException(
             status_code=400,
-            detail=f"Invalid file type. Allowed types: {",".join(ALLOWED_AUDIO_TYPES)}"
+            detail="Invalid file type."
         )
 
     if audio_file.size > MAX_FILE_SIZE:
         raise HTTPException(
             status_code=400,
-            detail=f"File too large. Maximum size: {MAX_FILE_SIZE/ 1024/ 1024}MB"
+            detail="File too large."
 
         )
 
